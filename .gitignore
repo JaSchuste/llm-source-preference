@@ -1,0 +1,27 @@
+# Data (downloaded separately from HuggingFace)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Results and model outputs
+results/
+multi_seed_runs*/
+finetuning_data*/
+finetuned_model*/
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
