@@ -238,6 +238,11 @@ python experiments/government_vs_social_media.py \
 
 ## Acknowledgements
 
+The authors acknowledge support by the German
+state of Baden-Württemberg through bwHPC and
+the German Research Foundation (DFG) through
+grant INST 35/1597-1 FUGG.
+
 This codebase was refactored using [Claude Code](https://claude.ai/claude-code)
 to follow a DRY (Do Repeat Yourself) structure.
 
