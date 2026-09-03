@@ -253,13 +253,23 @@ to follow a DRY (Do Repeat Yourself) structure.
 If you use this code or data in your research or projects, please cite the following:
 
 ```bibtex
-@article{schuster2026factswinllmsource,
-      title={Whose Facts Win? LLM Source Preferences under Knowledge Conflicts}, 
-      author={Jakob Schuster and Vagrant Gautam and Katja Markert},
-      year={2026},
-      eprint={2601.03746},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2601.03746}, 
+@inproceedings{schuster-etal-2026-whose,
+    title = "Whose Facts Win? {LLM} Source Preferences under Knowledge Conflicts",
+    author = "Schuster, Jakob  and
+      Gautam, Vagrant  and
+      Markert, Katja",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.1357/",
+    doi = "10.18653/v1/2026.acl-long.1357",
+    pages = "29430--29459",
+    ISBN = "979-8-89176-390-6"
 }
 ```
